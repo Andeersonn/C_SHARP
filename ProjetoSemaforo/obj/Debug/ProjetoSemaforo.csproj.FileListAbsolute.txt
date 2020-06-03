@@ -1,0 +1,12 @@
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.exe.config
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.exe
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\bin\Debug\ProjetoSemaforo.pdb
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csprojAssemblyReference.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.formlogin.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.Properties.Resources.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.GenerateResource.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.csproj.CoreCompileInputs.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.exe
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.pdb
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.Home.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\trabalhoSemaforo07-04\ProjetoSemaforo\obj\Debug\ProjetoSemaforo.formvisual.resources
