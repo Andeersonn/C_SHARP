@@ -1,0 +1,12 @@
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\bin\Debug\Restaurante.exe.config
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\bin\Debug\Restaurante.exe
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\bin\Debug\Restaurante.pdb
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.DinheiroRecebido.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.fechamento.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.Form1.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.exe
+D:\3Semeste-C.COMPUTACAO\C#-ELVIO\CODES\Restaurante\obj\Debug\Restaurante.pdb
